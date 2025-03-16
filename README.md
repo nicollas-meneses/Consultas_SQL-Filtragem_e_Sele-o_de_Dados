@@ -41,11 +41,6 @@ WHERE NOME LIKE '%SILVA%'
 2. Copie e cole as consultas em seu gerenciador SQL.
 3. Execute as consultas e veja os resultados filtrados conforme os critérios definidos.
 
-## 📩 Contato
-Caso tenha dúvidas ou sugestões, entre em contato:
-📧 **Email:** pedro.apataide@gmail.com
-🔗 **GitHub:** [afonsope](https://github.com/afonsope)
-
 ---
 **© 2025 - Desenvolvido por Nicollas Meneses**
 
